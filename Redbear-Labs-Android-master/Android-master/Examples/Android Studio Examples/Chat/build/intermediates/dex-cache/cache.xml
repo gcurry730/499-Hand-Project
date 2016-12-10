@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gcurry\Documents\Northwestern\499 - Hand Project\Redbear-Labs-Android-master\Android-master\Examples\Android Studio Examples\Chat\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="edf9a96e6feecfc2ce70bc4c04eee928763c8240">
+        <dex dex="C:\Users\gcurry\Documents\Northwestern\499 - Hand Project\Redbear-Labs-Android-master\Android-master\Examples\Android Studio Examples\Chat\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_80603c3f17c16059e52975af2d30c77c5aaf52e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gcurry\Documents\Northwestern\499 - Hand Project\Redbear-Labs-Android-master\Android-master\Examples\Android Studio Examples\Chat\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="4393952b4099efa07481e3776a5e9eed3974e10d">
+        <dex dex="C:\Users\gcurry\Documents\Northwestern\499 - Hand Project\Redbear-Labs-Android-master\Android-master\Examples\Android Studio Examples\Chat\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2d2f9343b10af1d15c927a657f061ec52fca20d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gcurry\Documents\Northwestern\499 - Hand Project\Redbear-Labs-Android-master\Android-master\Examples\Android Studio Examples\Chat\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Users\gcurry\Documents\Northwestern\499 - Hand Project\Redbear-Labs-Android-master\Android-master\Examples\Android Studio Examples\Chat\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_d621a6bb73242bf63c48d4242f866274b2f6bce5\classes.dex" />
+    </item>
+
+</items>

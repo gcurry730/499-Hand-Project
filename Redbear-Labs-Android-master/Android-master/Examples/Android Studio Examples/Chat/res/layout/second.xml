@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <Button
+        android:text="START"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_START"
+        android:layout_weight="0.07"
+        style="@android:style/Widget.Button.Toggle" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="118dp"
+        android:layout_weight="1.08">
+
+        <Button
+            android:text="Come Hither"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:id="@+id/button_comehither"
+            style="@android:style/Widget.Button.Inset" />
+
+        <Button
+            android:text="Wave"
+            android:layout_width="wrap_content"
+            android:layout_height="61dp"
+            android:id="@+id/button_wave"
+            style="@android:style/Widget.Button.Inset" />
+
+        <Button
+            android:text="Point"
+            android:layout_width="wrap_content"
+            android:layout_height="59dp"
+            android:id="@+id/button_point"
+            style="@android:style/Widget.Button.Inset" />
+
+        <Button
+            android:text="Hang loose"
+            android:layout_width="wrap_content"
+            android:layout_height="61dp"
+            android:id="@+id/button_hangloose"
+            style="@android:style/Widget.Button.Inset" />
+
+        <Button
+            android:text="Rock On"
+            android:layout_width="88dp"
+            android:layout_height="59dp"
+            android:layout_row="1"
+            android:layout_column="0"
+            style="@android:style/Widget.Button.Inset"
+            android:id="@+id/button_rockon" />
+
+        <Button
+            android:text="Rock On"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_rockon"
+            style="@android:style/Widget.Button.Inset" />
+
+        <Button
+            android:text="Shoot"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:id="@+id/button_shoot"
+            android:layout_row="1"
+            android:layout_column="1"
+            style="@android:style/Widget.Button.Inset" />
+
+        <Button
+            android:text="The Bird"
+            android:layout_width="wrap_content"
+            android:layout_height="61dp"
+            android:id="@+id/button_thebird"
+            android:layout_row="1"
+            android:layout_column="2"
+            style="@android:style/Widget.Button.Inset" />
+
+        <Button
+            android:text="Button"
+            android:layout_width="86dp"
+            android:layout_height="62dp"
+            android:id="@+id/button_neutral"
+            style="@android:style/Widget.Button.Inset" />
+    </GridLayout>
+
+    <Button
+        android:text="STOP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_STOP"
+        android:layout_weight="0.07"
+        style="@android:style/Widget.Button.Toggle" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:scrollbars="vertical"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

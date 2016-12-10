@@ -1,0 +1,7 @@
+#Fri Dec 09 17:57:39 CST 2016
+base.0=C\:\\Users\\gcurry\\Documents\\Northwestern\\499 - Hand Project\\Redbear-Labs-Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2d2f9343b10af1d15c927a657f061ec52fca20d9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\gcurry\\Documents\\Northwestern\\499 - Hand Project\\Redbear-Labs-Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_80603c3f17c16059e52975af2d30c77c5aaf52e7\\classes.dex
+base.1=C\:\\Users\\gcurry\\Documents\\Northwestern\\499 - Hand Project\\Redbear-Labs-Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_80603c3f17c16059e52975af2d30c77c5aaf52e7
+file.0=C\:\\Users\\gcurry\\Documents\\Northwestern\\499 - Hand Project\\Redbear-Labs-Android-master\\Android-master\\Examples\\Android Studio Examples\\Chat\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2d2f9343b10af1d15c927a657f061ec52fca20d9\\classes.dex
